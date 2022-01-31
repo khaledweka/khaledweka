@@ -5,7 +5,7 @@ A passionate web developer who seeks to get more & more
 - 🔭 I  have a full time job at @RoQay 
 - 🌱 I’m currently learning data science 
 - 👯 I’m looking to collaborate on open source projects that target sports & real estates
-- 🤔 I’m looking for help with any one who want to et more & more like me 
+- 🤔 I’m looking for help with any one who want to Get more & more like me 
 - 💬 Ask me about football :D .. or you can chat with me sometimes 
-- 📫 How to reach me: <a href="https://www.facebook.com/kh.AlwakeL/"> Facebook</a>
+- 📫 How to reach me: <a href="https://twitter.com/WakeelKhaled"> Twitter </a>
 
