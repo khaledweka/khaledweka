@@ -1,4 +1,4 @@
-![logo](http://khaled-elwakeel.com/images/Image.png)
+![logo](Image.png)
 ### Hi there , I'm Khaled Al-Wakeel 👋
 
 A passionate web developer who seeks to get more & more
