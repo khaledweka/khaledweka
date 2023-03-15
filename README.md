@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm khaled Al-Wakeel</h1>
-<h3 align="center">A passionate Web Solutions developer from Egypt Born In KSA</h3>
+<h3 align="center">A passionate Web Solutions developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledweka&label=Profile%20views&color=0e75b6&style=flat" alt="khaledweka" /> </p>
 
@@ -38,13 +38,3 @@
 <p><a href="[[https://www.buymeacoffee.com/khaled-elwakeel.com](https://www.buymeacoffee.com/Wakeelkhaled)](https://www.buymeacoffee.com/Wakeelkhaled)"> 
   <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="khaled-elwakeel.com" /></a>
 </p>
-<br>
-<br>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledweka&show_icons=true&locale=en&layout=compact" alt="khaledweka" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khaledweka&show_icons=true&locale=en&theme=aura_dark" alt="khaledweka" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=khaledweka&theme=icegray&hide_border=true&mode=weekly" alt="khaledweka" /></p>
-
