@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/wakeelkhaled" target="blank"><img src="https://img.shields.io/twitter/follow/wakeelkhaled?logo=twitter&style=for-the-badge" alt="wakeelkhaled" /></a> </p>
 
-- 🔭 I’m currently working on **REAL ESTATE PROJECTS**
+- 🔭 I’m currently working on **business Applications**
 
-- 🌱 I’m currently learning **laravel Sail**
+- 🌱 I’m currently learning **laravel Sail && Docker && DevoOps**
 
-- 👯 I’m looking to collaborate on **sports open source prjects**
+- 👯 I’m looking to collaborate on ** open source prjects**
 
 - 🤝 I’m looking for help with **laravel & docker**
 
-- 👨‍💻 All of my projects are available at [khaled-elwakeel.com](khaled-elwakeel.com)
-
-- 💬 Ask me about **vue.js , laravel , jquery , javascript**
+- 💬 Ask me about **vue.js , php , linux  , laravel , jquery , javascript , Python**
 
 - 📫 How to reach me **khaled_elwakeel@outlook.com**
 
