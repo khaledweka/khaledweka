@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm khaled Al-Wakeel</h1>
-<h3 align="center">A passionate Web Solutions developer</h3>
+<h3 align="center">Solutions developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledweka&label=Profile%20views&color=0e75b6&style=flat" alt="khaledweka" /> </p>
 
@@ -18,8 +18,6 @@
 - 💬 Ask me about **vue.js , php , linux  , laravel , jquery , javascript , Python**
 
 - 📫 How to reach me **khaled_elwakeel@outlook.com**
-
-- ⚡ Fun fact **i think i can take your place ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
